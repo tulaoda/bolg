@@ -1,4 +1,4 @@
-# 《Node.js技术栈》
+<!-- # 《Node.js技术栈》
 
 [![stars](https://badgen.net/github/stars/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap) [![forks](https://badgen.net/github/forks/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap) [<img src="https://img.shields.io/static/v1.svg?label=%E6%85%95%E8%AF%BE&message=3k%20stars&color=ef151f">](https://www.imooc.com/u/2667395) [<img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-160%20likes-brightgreen.svg">](https://juejin.im/user/5ae4348f6fb9a07aac2436f1)
 
@@ -11,10 +11,11 @@
 - 点击右上角Star :star: 给予关注
 - 分享给您身边更多的小伙伴
 
-> **作者：** 五月君，Node.js Developer，[慕课网认证作者](https://www.imooc.com/u/2667395)。
+> **作者：** 五月君，Node.js Developer，[慕课网认证作者](https://www.imooc.com/u/2667395)。 -->
 
 ## 技术栈目录
 
+* [`React`](/react/组件拆分思路.md)
 * [`JavaScript`](/javascript/base.md)
 * [`ECMAScript6`](/es6/readme.md)
 * [`Node.js`](/nodejs/module.md)
@@ -27,26 +28,26 @@
 
 ## 转载分享
 
-建立本开源项目的初衷是基于个人学习与工作中对 Node.js 相关技术栈的总结记录，在这里也希望能帮助一些在学习 Node.js 过程中遇到问题的小伙伴，如果您需要转载本仓库的一些文章到自己的博客，请按照以下格式注明出处，谢谢合作。
+建立本博客的初衷是基于个人学习与工作中对 React 相关技术栈的总结记录，在这里也希望能帮助一些在学习 React 过程中遇到问题的小伙伴，如果您需要转载本仓库的一些文章到自己的博客，请按照以下格式注明出处，谢谢合作。
 
 ```
-作者：五月君
-链接：https://github.com/Q-Angelo/Nodejs-Roadmap
-来源：Nodejs.js技术栈
+作者：兔老大
+链接：https://github.com/tulaoda/blog
+来源：阿鑫的个人博客
 ```
 
 ## 联系我
-
+<!-- 
 - **加入群聊**
-本群的宗旨是给大家提供一个良好的技术学习交流平台，所以杜绝一切广告！由于微信群人满 100 之后无法加入，请扫描下方二维码先添加作者 “五月君” 微信，备注：Node.js。
-<img src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/wx.jpeg?x-oss-process=style/may" width="180" height="180"/>
+本群的宗旨是给大家提供一个良好的技术学习交流平台，所以杜绝一切广告！由于微信群人满 100 之后无法加入，请扫描下方二维码先添加作者 “五月君” 微信，备注：Node.js。 -->
+<img src="./img/wx.jpg" width="180"/>
 
-- **公众号**
+<!-- - **公众号**
 专注于Node.js相关技术栈的研究分享，包括基础知识、Nodejs、Consul、Redis、微服务、消息中间件等，如果大家感兴趣可以给予关注支持！
-<img src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/node_roadmap_wx.jpg?x-oss-process=style/may" width="180" height="180"/>
+<img src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/node_roadmap_wx.jpg?x-oss-process=style/may" width="180" height="180"/> -->
 
 ## 参与贡献
 
 1. 如果您对本项目有任何建议或发现文中内容有误的，欢迎提交 issues 进行指正。
 2. 对于文中我没有涉及到知识点，欢迎提交 PR。
-3. 如果您有文章推荐请以 markdown 格式到邮箱 `qzfweb@gmail.com`，[中文技术文档的写作规范指南](https://github.com/ruanyf/document-style-guide)。
+3. 如果您有文章推荐请以 markdown 格式到邮箱 `coderaxin@163.com`，[中文技术文档的写作规范指南](https://github.com/ruanyf/document-style-guide)。
