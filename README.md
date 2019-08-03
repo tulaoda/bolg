@@ -1,4 +1,4 @@
-# Node.js技术栈
+<!-- # Node.js技术栈
 
 > 本文档是作者从事```Node.js Developer```以来的学习历程，旨在为大家提供一个较详细的学习教程，侧重点更倾向于Node.js服务端所涉及的技术栈，如果本文能为您得到帮助，请给予支持！
 
@@ -14,7 +14,7 @@
 [```JavaScript```](#JavaScript)| [`ECMAScript6`](#ECMAScript6) | [`Node.js`](#Nodejs) | [`DataBase`](#DataBase) | [`Microservice`](#Microservice) | [`HTTP`](#HTTP协议) | [`DevOps`](#DevOps) | [`工具`](#工具) | [`资料`](#资料)
  :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
 
-**Node.js技术栈在线预览：** [https://www.nodejs.red/](https://www.nodejs.red/)
+**Node.js技术栈在线预览：** [https://www.nodejs.red/](https://www.nodejs.red/) -->
 
 ## JavaScript
 
@@ -239,18 +239,18 @@
 - **书籍推荐** [[more]](/docs/materials/book.md)
 - **Blog推荐** [[more]](/docs/materials/blog.md)
 - **文章推荐** [[more]](/docs/materials/article.md)
-
+<!-- 
 ## 转载分享
 
-建立本开源项目的初衷是基于个人学习与工作中对 Node.js 相关技术栈的总结记录，在这里也希望能帮助一些在学习 Node.js 过程中遇到问题的小伙伴，如果您需要转载本仓库的一些文章到自己的博客，请按照以下格式注明出处，谢谢合作。
+建立本开源项目的初衷是基于个人学习与工作中对 Node.js 相关技术栈的总结记录，在这里也希望能帮助一些在学习 Node.js 过程中遇到问题的小伙伴，如果您需要转载本仓库的一些文章到自己的博客，请按照以下格式注明出处，谢谢合作。 -->
 
-```
+<!-- ```
 作者：五月君
 链接：https://github.com/Q-Angelo/Nodejs-Roadmap
 来源：Nodejs.js技术栈
-```
+``` -->
 
-## 参与贡献
+<!-- ## 参与贡献
 
 1. 如果您对本项目有任何建议或发现文中内容有误的，欢迎提交 issues 进行指正。
 2. 对于文中我没有涉及到知识点，欢迎提交 PR。
@@ -266,7 +266,7 @@
 专注于Node.js相关技术栈的研究分享，包括基础知识、Nodejs、Consul、Redis、微服务、消息中间件等，如果大家感兴趣可以给予关注支持！
 <img src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/node_roadmap_wx.jpg?x-oss-process=style/may" width="180" height="180"/>
 
-<hr/>
+<hr/> -->
 
 **未完待续，持续更新中。。。**
 
