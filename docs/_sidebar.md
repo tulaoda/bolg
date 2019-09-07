@@ -4,6 +4,7 @@
 * React
     * [组件拆分](/react/组件拆分思路.md)
 * Airbnb代码规范
+    * [JavaScript 风格指南](/airbnb/README.md)
     * [React](/airbnb/react.md)
 * JavaScript
     * [基础](/javascript/base.md)
