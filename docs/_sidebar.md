@@ -23,7 +23,7 @@
     * [Symbol](/es6/symbol.md)
     * [Generator](/es6/generator.md)
 * 算法和数据结构
-    * [开篇](/algorithm/readme.md)
+    * [开篇](/algorithm/README.md)
 * 工具
     - [Git 常用命令及日常问题集锦](/tools/git.md)
 * 资料
