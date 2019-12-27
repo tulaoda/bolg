@@ -26,6 +26,8 @@
     * [开篇](/algorithm/README.md)
 * 工具
     - [Git 常用命令及日常问题集锦](/tools/git.md)
+* Echart
+    - [Echart踩坑记录](/echart/option.md)
 * 资料
     - [书籍推荐](/materials/book.md)
     - [Blog推荐](/materials/blog.md)
